@@ -1,0 +1,38 @@
+
+
+
+.food-container{
+    flex-basis: 50%;
+}
+
+.food-sec{
+    display: flex;
+    margin-top: 15px;
+    align-items: center;
+}
+
+.food-sec input{
+    width: 15px;
+    height: 15px;
+}
+
+.food-sec label{
+    font-size: 20px;
+}
+
+.food-sec-left{
+    flex-basis: 40%;
+    padding: 3px;
+}
+
+.food-sec-right{
+    flex-basis: 60%;
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+.food-sec-right input{
+    width: 50%;
+    margin:3px;
+}

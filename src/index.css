@@ -1,0 +1,13 @@
+
+
+
+.container{
+  margin-top: 100px;
+  border: 1px solid rgb(255, 0, 0);
+  background-color: rgb(236, 0, 0);
+  padding: 0px !important;
+}
+
+.inner-up{
+  display: flex;
+}
